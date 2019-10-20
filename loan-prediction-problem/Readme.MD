@@ -115,6 +115,21 @@ propertyLoanStatus.div(propertyLoanStatus.sum(1).astype(float), axis=0).plot.bar
 
 plt.show(block=True)
 ```
+![educationvsloan](https://user-images.githubusercontent.com/35737777/67167584-b1308580-f393-11e9-9167-49a5d0163c08.png)
+
+![gendervsloan](https://user-images.githubusercontent.com/35737777/67167585-b1308580-f393-11e9-90f3-68ad04a1f043.png)
+
+![marriedvsloan](https://user-images.githubusercontent.com/35737777/67167586-b1308580-f393-11e9-9235-e627b4306b24.png)
+
+![propertyvsloan](https://user-images.githubusercontent.com/35737777/67167587-b1308580-f393-11e9-9996-28b2be29eafc.png)
+
+![selfemployedvsloan](https://user-images.githubusercontent.com/35737777/67167588-b1c91c00-f393-11e9-96e9-ba1b5e633088.png)
+
+![all_counts_plot](https://user-images.githubusercontent.com/35737777/67167589-b1c91c00-f393-11e9-98d6-106b872fa844.png)
+
+![creditvsloan](https://user-images.githubusercontent.com/35737777/67167590-b1c91c00-f393-11e9-8717-003a43c16ce3.png)
+
+![dependentsvsloan](https://user-images.githubusercontent.com/35737777/67167591-b1c91c00-f393-11e9-8a2f-b1caad3e2a83.png)
 
 From the graph, the plot of credit-history vs loan-status shows more detailed information. It indicates that possibility
 of loan approval as Successful depends on credit-history. If credit-history is None then loan status is No.
